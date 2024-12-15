@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "libs/annotations.jar"
+    ],
+    "Codegeex.RepoIndex": true
+}
